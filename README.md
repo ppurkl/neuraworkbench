@@ -1,4 +1,6 @@
-# NeuraWorkbench - A Tool for Task Automation beyond ChatGPT
+# NeuraWorkbench - Tools for Task Automation beyond ChatGPT
+
+![NeuraWorkbench Logo](docs/neuraworkbench_logo.png)
 
 NeuraWorkbench is a growing collection of Python functions, tools, and scripts intended to make research and project work easier. 
 
